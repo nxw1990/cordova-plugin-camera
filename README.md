@@ -27,6 +27,7 @@ description: Take pictures with the device camera.
 
 # cordova-plugin-camera
 修复android某些机型选择相册选择图片时显示不出来问题
+
 This plugin defines a global `navigator.camera` object, which provides an API for taking pictures and for choosing images from
 the system's image library.
 
